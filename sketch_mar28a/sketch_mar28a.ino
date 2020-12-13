@@ -135,7 +135,7 @@ void sol(){ // Robotun saÄŸa dÃ¶nme hareketi iÃ§in fonksiyon tanÄ±mlÄ±
 }
 
 
-void geri(){ // Robotun geri yÃ¶nde hareketi iÃ§in fonksiyon tanÄ±mlÄ±yoruz.
+void geri(){ // Robotun geri yÃ¶nde hareketi iÃ§in fonksiyon tanimliyoruz.
 
   digitalWrite(MotorR1, LOW); // SaÄŸ motorun ileri hareketi pasif
   digitalWrite(MotorR2, HIGH); // SaÄŸ motorun geri hareketi aktif
